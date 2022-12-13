@@ -1,0 +1,8 @@
+com/phptravels/automation/ui/ClickButton.java
+ com.phptravels.automation.ui.ClickButton
+com/phptravels/automation/models/DataInjection.java
+ com.phptravels.automation.models.DataInjection
+com/phptravels/automation/pageobjects/PhpTravelsPage.java
+ com.phptravels.automation.pageobjects.PhpTravelsPage
+com/phptravels/automation/steps/PhpTravelsPageSteps.java
+ com.phptravels.automation.steps.PhpTravelsPageSteps

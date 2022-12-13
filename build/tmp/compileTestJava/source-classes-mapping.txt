@@ -1,0 +1,4 @@
+com/phptravels/tests/runners/retoPhpTravelsRunner.java
+ com.phptravels.tests.runners.retoPhpTravelsRunner
+com/phptravels/tests/stepdefinitions/retoPhpTravelsStepDefinitions.java
+ com.phptravels.tests.stepdefinitions.retoPhpTravelsStepDefinitions

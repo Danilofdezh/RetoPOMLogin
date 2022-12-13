@@ -1,0 +1,12 @@
+
+l
+java:S1104
+"VMake EmailInput a static final constant or non-public and provide accessors if needed.(»—¦Þ
+o
+java:S1104"YMake PasswordInput a static final constant or non-public and provide accessors if needed.(¬°àè
+y
+java:S1104"WMake LoginButton a static final constant or non-public and provide accessors if needed.( ýƒõùÿÿÿÿ8ðÖÑÙ¥0
+j	java:S116
+"URename this field "EmailInput" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(»—¦Þ
+m	java:S116"XRename this field "PasswordInput" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¬°àè
+w	java:S116"VRename this field "LoginButton" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.( ýƒõùÿÿÿÿ8†×ÑÙ¥0
